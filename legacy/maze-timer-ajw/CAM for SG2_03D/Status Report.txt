@@ -1,0 +1,31 @@
+CAM Outputs Generation Report
+for 'CAM Outputs for SG2_03D.cam'
+at 13:03:00 on 28-Jun-2017
+
+
+'NC Drill Output 1'
+'SG2_03D.TXT' generated
+'SG2_03D.DRL' generated
+'SG2_03D.DRR' generated
+
+'Bom Output 2'
+'BOM for SG2_03D.bom' generated
+
+'Bom Output 1'
+'BOM for SG2_03D.bom' generated
+
+'Gerber Output 1'
+'SG2_03D.GTL' generated
+'SG2_03D.GBL' generated
+'SG2_03D.GTO' generated
+'SG2_03D.GTS' generated
+'SG2_03D.GBS' generated
+'SG2_03D.GKO' generated
+'SG2_03D.GM1' generated
+'SG2_03D.GM4' generated
+'SG2_03D.GD1' generated
+'SG2_03D.GG1' generated
+'SG2_03D.REP' generated
+
+
+Total number of generated files = 16

@@ -1,0 +1,20 @@
+CAM Outputs Generation Report
+for 'CAM Outputs for GANTRY03.cam'
+at 12:50:14 on 28-Jun-2017
+
+
+'gantry03'
+'GANTRY03.GTL' generated
+'GANTRY03.GBL' generated
+'GANTRY03.GTO' generated
+'GANTRY03.GTS' generated
+'GANTRY03.GBS' generated
+'GANTRY03.GKO' generated
+'GANTRY03.GM1' generated
+'GANTRY03.GM4' generated
+'GANTRY03.GD1' generated
+'GANTRY03.GG1' generated
+'GANTRY03.REP' generated
+
+
+Total number of generated files = 11

@@ -1,0 +1,176 @@
+*************************************************************
+FileName = SG2_03D.GBR
+AutoAperture = True
+*************************************************************
+Generating : 
+      File : SG2_03D.GTL
+
+    Adding Layer      : TopLayer
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : 
+      File : SG2_03D.GBL
+
+    Adding Layer      : BottomLayer
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : 
+      File : SG2_03D.GTO
+
+    Adding Layer      : TopOverlay
+
+
+Used DCodes :
+    D13
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : 
+      File : SG2_03D.GTS
+
+    Adding Layer      : TopSolder
+
+    Adding Layer      : TopLayer
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : 
+      File : SG2_03D.GBS
+
+    Adding Layer      : BottomSolder
+
+    Adding Layer      : BottomLayer
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : 
+      File : SG2_03D.GKO
+
+    Adding Layer      : KeepOutLayer
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : 
+      File : SG2_03D.GM1
+
+    Adding Layer      : Mechanical1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : 
+      File : SG2_03D.GM4
+
+    Adding Layer      : Mechanical4
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : SG2_03D.GD1
+
+    Adding Layer      : DrillDrawing
+
+    Adding Drill Pair : TopLayer-BottomLayer
+
+
+Used DCodes :
+    D13
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : SG2_03D.GG1
+
+    Adding Layer      : DrillGuide
+
+    Adding Drill Pair : TopLayer-BottomLayer
+
+
+Used DCodes :
+    D37
+*************************************************************
+

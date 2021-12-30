@@ -1,0 +1,186 @@
+*************************************************************
+FileName = GANTRY03.GBR
+AutoAperture = True
+*************************************************************
+Generating : 
+      File : GANTRY03.GTL
+
+    Adding Layer      : TopLayer
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : 
+      File : GANTRY03.GBL
+
+    Adding Layer      : BottomLayer
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : 
+      File : GANTRY03.GTO
+
+    Adding Layer      : TopOverlay
+
+
+Used DCodes :
+    D10
+    D25
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : 
+      File : GANTRY03.GTS
+
+    Adding Layer      : TopSolder
+
+    Adding Layer      : TopLayer
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D15
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : 
+      File : GANTRY03.GBS
+
+    Adding Layer      : BottomSolder
+
+    Adding Layer      : BottomLayer
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D15
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : 
+      File : GANTRY03.GKO
+
+    Adding Layer      : KeepOutLayer
+
+
+Used DCodes :
+    D25
+*************************************************************
+
+*************************************************************
+Generating : 
+      File : GANTRY03.GM1
+
+    Adding Layer      : Mechanical1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : 
+      File : GANTRY03.GM4
+
+    Adding Layer      : Mechanical4
+
+
+Used DCodes :
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : GANTRY03.GD1
+
+    Adding Layer      : DrillDrawing
+
+    Adding Drill Pair : TopLayer-BottomLayer
+
+
+Used DCodes :
+    D26
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : GANTRY03.GG1
+
+    Adding Layer      : DrillGuide
+
+    Adding Drill Pair : TopLayer-BottomLayer
+
+
+Used DCodes :
+    D41
+*************************************************************
+
